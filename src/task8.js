@@ -1,0 +1,1 @@
+const calcCelcia = (celciy) => console.log(`${(celciy * (9 / 5) + 32)}F ${celciy}C`);
