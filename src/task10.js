@@ -1,0 +1,1 @@
+const howMuchPerPerson = (sum, tips, friends) => console.log((sum + tips) / friends);
