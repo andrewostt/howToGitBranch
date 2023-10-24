@@ -1,0 +1,1 @@
+const calcCost = (fuelKm, distance, fuelCost) => console.log(((fuelKm * distance) / 100) * fuelCost);
