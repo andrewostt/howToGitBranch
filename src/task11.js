@@ -12,5 +12,3 @@ const calcTime = (seconds) => {
     };
     return console.log(`${hours} ч ${minutes} мин ${i}`);
 };
-
-calcTime(3665);
