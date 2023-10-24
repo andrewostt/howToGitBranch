@@ -1,0 +1,1 @@
+const calcCredit = (sum, insterestRate, creditTime) => console.log(sum + (sum * (insterestRate / 100) * creditTime));
