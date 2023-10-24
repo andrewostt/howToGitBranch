@@ -1,0 +1,1 @@
+console.log('Имя: \t\tJohn\nФамилия: \tDoe\nВозраст: \t25 лет');
